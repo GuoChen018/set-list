@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="style.css" ?>
+
+<cover-list>
+    <head>2021-2022 Concert Band / Set List</head>
+    <record>
+        <genre>#electronic</genre>        
+        <title>This Feeling</title>
+        <artist>Chainsmoker</artist>
+        <year>2018</year>
+    </record>
+    <record>
+        <genre>#pop</genre>
+        <title>Story of My Life</title>
+        <artist>One Direction</artist>
+        <year>2013</year>
+    </record>
+    <record>
+        <genre>#pop</genre>
+        <title>Girls Like You</title>
+        <artist>Maroon 5</artist>        
+        <year>2017</year>
+    </record>
+    <record>
+        <genre>#pop</genre>
+        <title>Paris in the Rain</title>
+        <artist>Lauv</artist>
+        <year>2018</year>
+    </record>
+    <record>
+        <genre>#rhythm</genre>
+        <title>Chanel</title>
+        <artist>Frank Ocean</artist>
+        <year>2017</year>
+    </record>
+    <record>
+        <genre>#indie</genre>
+        <title>A Sky Full of Stars</title>
+        <artist>Coldplay</artist>
+        <year>2014</year>
+    </record>
+    <record>
+        <genre>#indie</genre>
+        <title>Cool Kids</title>
+        <artist>Echosmith</artist>
+        <year>2013</year>
+    </record>
+    <record>
+        <genre>#house</genre>
+        <title>Summer</title>
+        <artist>Calvin Harris</artist>
+        <year>2014</year>
+    </record>
+    <record>
+        <genre>#pop</genre>
+        <title>Classics</title>
+        <artist>MKTO</artist>
+        <year>2013</year>
+    </record>
+    <record>
+        <genre>#pop</genre>
+        <title>I Gotta Feeling</title>
+        <artist>Black Eyed Peas</artist>
+        <year>2009</year>
+    </record>
+</cover-list>
